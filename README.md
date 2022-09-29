@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @theYockaman
-- 👀 I’m interested in Coding the Hell of my Code
+- 👀 I’m interested in programming Hardcore
 - 🌱 I’m currently learning Java and a little Python left to learn
 - 💞️ I’m looking to collaborate on some projects like python projects I enjoy it all
 - 📫 How to reach me through Github or something else
